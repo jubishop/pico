@@ -4,15 +4,9 @@
 // Enable <header>, <main>, <footer> inside <body> as a container
 $enable-semantic-container: true;
 
-// Enable .container and .container-fluid
-$enable-class-container: false;
-
 // Enable responsive spacings for <header>, <main>, <footer>, <section>, <article>
 // Fixed spacings if disabled
 $enable-responsive-spacings: false;
-
-// Enable .grid class
-$enable-grid: false;
 
 
 // Pico Lib
